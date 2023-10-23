@@ -1,0 +1,33 @@
+Review:     Fixed Effect Model - BCG Vaccines for Covid-19 - Meninggal
+
+                            OR            95%-CI %W(common)
+Blossey et al., 2022    0.9990 [0.0624; 15.9936]        6.5
+Moorlag et al., 2022    2.9970 [0.1219; 73.6570]        0.0
+Sinha et al., 2022      0.3360 [0.0136;  8.2889]        6.5
+Tsilika et al., 2022    0.1448 [0.0074;  2.8273]       19.3
+Upton et al., 2022      0.1992 [0.0095;  4.1597]       13.1
+Pittet et al., 2023     0.3204 [0.0130;  7.8711]        6.7
+Koekenbier et al., 2023 0.8320 [0.2536;  2.7290]       39.1
+Weng et al., 2020       0.1515 [0.0060;  3.8066]        8.9
+
+Number of studies: k = 8
+Number of observations: o = 15408
+Number of events: e = 22
+
+                        OR           95%-CI     z p-value
+Common effect model 0.4558 [0.1869; 1.1117] -1.73  0.0841
+
+Quantifying heterogeneity:
+ tau^2 = 0 [0.0000; 2.3549]; tau = 0 [0.0000; 1.5346]
+ I^2 = 0.0% [0.0%; 67.6%]; H = 1.00 [1.00; 1.76]
+
+Test of heterogeneity:
+    Q d.f. p-value
+ 3.73    7  0.8100
+
+Details on meta-analytical method:
+- Mantel-Haenszel method (without continuity correction)
+- Paule-Mandel estimator for tau^2
+- Q-Profile method for confidence interval of tau^2 and tau
+- Continuity correction of 0.5 in studies with zero cell frequencies
+  (only used to calculate individual study results)

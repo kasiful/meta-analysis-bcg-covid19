@@ -1,0 +1,5 @@
+category;intercept;95% CI;t;p
+(a) By infection rate;-1.626;-2.39 - -0.86;-4.157;0.001597082
+(b) Based on patients admitted to the hospital;-0.692;-2.16 - 0.78;-0.921; 0.3841519
+(c) Based on patients admitted to the ICU; 0.261;-2.74 - 3.26;0.17; 0.8755478
+(d) Based on mortality;-0.783;-1.98 - 0.42;-1.279;0.2480334
